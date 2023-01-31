@@ -177,3 +177,143 @@ function gmail(){
 function drive(){
     window.open('https://drive.google.com/drive/my-drive');
 }
+
+function budget(){
+    window.open('https://docs.google.com/spreadsheets/d/1o3ZtBkBT3KkgR6fRBuW1jwTqiD6vvYYTP__YiRgShIU/edit');
+}
+
+function amazon(){
+    window.open('https://www.amazon.com/');
+}
+
+function allstate(){
+    window.open('');
+}
+
+function americafirst(){
+    window.open('');
+}
+
+function chewy(){
+    window.open('');
+}
+
+function delta(){
+    window.open('');
+}
+
+function facebook(){
+    window.open('');
+}
+
+function figma(){
+    window.open('');
+}
+
+function godaddy(){
+    window.open('');
+}
+
+function gusto(){
+    window.open('');
+}
+
+function hbomax(){
+    window.open('');
+}
+
+function ifixit(){
+    window.open('');
+}
+
+function intuit(){
+    window.open('');
+}
+
+function ksl(){
+    window.open('');
+}
+
+function linkedin(){
+    window.open('');
+}
+
+function mountainamerica(){
+    window.open('');
+}
+
+function mereo(){
+    window.open('');
+}
+
+function synchrony(){
+    window.open('');
+}
+
+function nebula(){
+    window.open('');
+}
+
+function nfl(){
+    window.open('');
+}
+
+function raiders(){
+    window.open('');
+}
+
+function nike(){
+    window.open('');
+}
+
+function pluralsight(){
+    window.open('');
+}
+
+function principal(){
+    window.open('');
+}
+
+function questar(){
+    window.open('');
+}
+
+function cedar(){
+    window.open('');
+}
+
+function rockymountain(){
+    window.open('');
+}
+
+function roku(){
+    window.open('');
+}
+
+function robinhood(){
+    window.open('');
+}
+
+function snapchat(){
+    window.open('');
+}
+
+function steam(){
+    window.open('');
+}
+
+function ticket(){
+    window.open('');
+}
+
+function upgrade(){
+    window.open('');
+}
+
+function w3schools(){
+    window.open('');
+}
+
+function xfinity(){
+    window.open('');
+}

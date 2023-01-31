@@ -1,1 +1,36 @@
 # links
+
+## logos to collect
+- [] Allstate
+- [] America First
+- [] Chewy
+- [] Delta
+- [] Facebook
+- [] Figma
+- [] GoDaddy
+- [] Gusto
+- [] HBOmax
+- [] iFixit
+- [] Intuit
+- [] KSL
+- [] LinkedIn
+- [] Mountain America
+- [] Mero
+- [] Synchrony
+- [] Nebula
+- [] NFL
+- [] Raiders
+- [] Nike
+- [] Pluralsight
+- [] Principal
+- [] Questar Gas
+- [] Cedar Breaks
+- [] Rocky Mountain
+- [] Roku
+- [] Robinhood
+- [] Snapchat
+- [] Steam
+- [] Ticket Master
+- [] Upgrade
+- [] W3schools
+- [] Xfinity
