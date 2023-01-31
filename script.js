@@ -187,133 +187,133 @@ function amazon(){
 }
 
 function allstate(){
-    window.open('');
+    window.open('https://myaccountrwd.allstate.com/secured/home');
 }
 
 function americafirst(){
-    window.open('');
+    window.open('https://www.americafirst.com/');
 }
 
 function chewy(){
-    window.open('');
+    window.open('https://www.chewy.com/');
 }
 
 function delta(){
-    window.open('');
+    window.open('https://www.delta.com/');
 }
 
 function facebook(){
-    window.open('');
+    window.open('https://www.facebook.com/');
 }
 
 function figma(){
-    window.open('');
+    window.open('https://www.figma.com/');
 }
 
 function godaddy(){
-    window.open('');
+    window.open('https://www.godaddy.com/');
 }
 
 function gusto(){
-    window.open('');
+    window.open('https://gusto.com/');
 }
 
 function hbomax(){
-    window.open('');
+    window.open('https://www.hbomax.com/');
 }
 
 function ifixit(){
-    window.open('');
+    window.open('https://www.ifixit.com/');
 }
 
 function intuit(){
-    window.open('');
+    window.open('https://myturbotax.intuit.com/');
 }
 
 function ksl(){
-    window.open('');
+    window.open('https://www.ksl.com/');
 }
 
 function linkedin(){
-    window.open('');
+    window.open('https://www.linkedin.com/');
 }
 
 function mountainamerica(){
-    window.open('');
+    window.open('https://www.macu.com/');
 }
 
 function mereo(){
-    window.open('');
+    window.open('https://mereonetworks.zendesk.com/hc/en-us');
 }
 
 function synchrony(){
-    window.open('');
+    window.open('https://www.mysynchrony.com/');
 }
 
 function nebula(){
-    window.open('');
+    window.open('https://nebula.tv/');
 }
 
 function nfl(){
-    window.open('');
+    window.open('https://www.nfl.com/');
 }
 
 function raiders(){
-    window.open('');
+    window.open('https://www.raiders.com/');
 }
 
 function nike(){
-    window.open('');
+    window.open('https://www.nike.com/');
 }
 
 function pluralsight(){
-    window.open('');
+    window.open('https://www.pluralsight.com/');
 }
 
 function principal(){
-    window.open('');
+    window.open('https://www.principal.com/');
 }
 
 function questar(){
-    window.open('');
+    window.open('https://www.dominionenergy.com/');
 }
 
 function cedar(){
-    window.open('');
+    window.open('https://cedarbreaksapts.residentportal.com/auth');
 }
 
 function rockymountain(){
-    window.open('');
+    window.open('https://www.rockymountainpower.net/');
 }
 
 function roku(){
-    window.open('');
+    window.open('https://www.roku.com/');
 }
 
 function robinhood(){
-    window.open('');
+    window.open('https://robinhood.com/us/en/');
 }
 
 function snapchat(){
-    window.open('');
+    window.open('https://web.snapchat.com/');
 }
 
 function steam(){
-    window.open('');
+    window.open('https://store.steampowered.com/');
 }
 
 function ticket(){
-    window.open('');
+    window.open('https://www.ticketmaster.com/');
 }
 
 function upgrade(){
-    window.open('');
+    window.open('https://www.upgrade.com/');
 }
 
 function w3schools(){
-    window.open('');
+    window.open('https://www.w3schools.com/');
 }
 
 function xfinity(){
-    window.open('');
+    window.open('https://www.xfinity.com/overview');
 }
