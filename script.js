@@ -162,6 +162,10 @@ function entview(){
     window.open('https://evue.archnexus.com/#floorplan/%2Fgraphicalregion%2F13/view');
 }
 
+function vendor(){
+    window.open('https://docs.google.com/spreadsheets/d/1f0R3VQBxWiKgc5U9G0nskPcEZPaG5foE9siQADbGEeg/edit#gid=0');
+}
+
 function github_personal(){
     window.open('https://github.com/Kassicus');
 }

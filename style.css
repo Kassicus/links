@@ -229,6 +229,10 @@ a{
     background-image: url('assets/lutron.png');
 }
 
+.vendor{
+    background-image: url('assets/google.png');
+}
+
 .youtube{
     background-image: url('assets/youtube.png');
 }
