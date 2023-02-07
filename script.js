@@ -321,3 +321,7 @@ function w3schools(){
 function xfinity(){
     window.open('https://www.xfinity.com/overview');
 }
+
+function hrblock(){
+    window.open('https://account.hrblock.com/#/dashboard');
+}
