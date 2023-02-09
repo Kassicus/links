@@ -325,3 +325,7 @@ function xfinity(){
 function hrblock(){
     window.open('https://account.hrblock.com/#/dashboard');
 }
+
+function replit(){
+    window.open('https://replit.com/~');
+}

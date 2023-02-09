@@ -388,3 +388,7 @@ a{
 .hrblock{
     background-image: url('assets/hrblock.png');
 }
+
+.replit{
+    background-image: url('assets/replit.png');
+}
