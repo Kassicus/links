@@ -135,197 +135,201 @@ function emtrain(){
 }
 
 function hydrawise(){
-    window.open('https://app.hydrawise.com/config/zones');
+    window.open('https://app.hydrawise.com/config/zones', '_blank');
 }
 
 function buildingevent(){
-    window.open('https://docs.google.com/spreadsheets/d/1Mjfd522fVkulitWGC86crsnhWLwoWRvYrsukB7Ks0YI/edit#gid=0');
+    window.open('https://docs.google.com/spreadsheets/d/1Mjfd522fVkulitWGC86crsnhWLwoWRvYrsukB7Ks0YI/edit#gid=0', '_blank');
 }
 
 function inhabit(){
-    window.open('http://inhabit.archnexus.com/dashboard?site_code=inhabit');
+    window.open('http://inhabit.archnexus.com/dashboard?site_code=inhabit', '_blank');
 }
 
 function viewglass(){
-    window.open('https://view.com/account/signin');
+    window.open('https://view.com/account/signin', '_blank');
 }
 
 function twingate(){
-    window.open('https://archnexus.twingate.com/');
+    window.open('https://archnexus.twingate.com/', '_blank');
 }
 
 function webmail(){
-    window.open('https://slc.archnexus.com/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fslc.archnexus.com%2fowa%2f');
+    window.open('https://slc.archnexus.com/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fslc.archnexus.com%2fowa%2f', '_blank');
 }
 
 function entview(){
-    window.open('https://evue.archnexus.com/#floorplan/%2Fgraphicalregion%2F13/view');
+    window.open('https://evue.archnexus.com/#floorplan/%2Fgraphicalregion%2F13/view', '_blank');
 }
 
 function vendor(){
-    window.open('https://docs.google.com/spreadsheets/d/1f0R3VQBxWiKgc5U9G0nskPcEZPaG5foE9siQADbGEeg/edit#gid=0');
+    window.open('https://docs.google.com/spreadsheets/d/1f0R3VQBxWiKgc5U9G0nskPcEZPaG5foE9siQADbGEeg/edit#gid=0', '_blank');
 }
 
 function github_personal(){
-    window.open('https://github.com/Kassicus');
+    window.open('https://github.com/Kassicus', '_blank');
 }
 
 function youtube(){
-    window.open('https://www.youtube.com/');
+    window.open('https://www.youtube.com/', '_blank');
 }
 
 function gmail(){
-    window.open('https://mail.google.com/mail/u/0/#inbox');
+    window.open('https://mail.google.com/mail/u/0/#inbox', '_blank');
 }
 
 function drive(){
-    window.open('https://drive.google.com/drive/my-drive');
+    window.open('https://drive.google.com/drive/my-drive', '_blank');
 }
 
 function budget(){
-    window.open('https://docs.google.com/spreadsheets/d/1o3ZtBkBT3KkgR6fRBuW1jwTqiD6vvYYTP__YiRgShIU/edit');
+    window.open('https://docs.google.com/spreadsheets/d/1o3ZtBkBT3KkgR6fRBuW1jwTqiD6vvYYTP__YiRgShIU/edit', '_blank');
 }
 
 function amazon(){
-    window.open('https://www.amazon.com/');
+    window.open('https://www.amazon.com/', '_blank');
 }
 
 function allstate(){
-    window.open('https://myaccountrwd.allstate.com/secured/home');
+    window.open('https://myaccountrwd.allstate.com/secured/home', '_blank');
 }
 
 function americafirst(){
-    window.open('https://www.americafirst.com/');
+    window.open('https://www.americafirst.com/', '_blank');
 }
 
 function chewy(){
-    window.open('https://www.chewy.com/');
+    window.open('https://www.chewy.com/', '_blank');
 }
 
 function delta(){
-    window.open('https://www.delta.com/');
+    window.open('https://www.delta.com/', '_blank');
 }
 
 function facebook(){
-    window.open('https://www.facebook.com/');
+    window.open('https://www.facebook.com/', '_blank');
 }
 
 function figma(){
-    window.open('https://www.figma.com/');
+    window.open('https://www.figma.com/', '_blank');
 }
 
 function godaddy(){
-    window.open('https://www.godaddy.com/');
+    window.open('https://www.godaddy.com/', '_blank');
 }
 
 function gusto(){
-    window.open('https://gusto.com/');
+    window.open('https://gusto.com/', '_blank');
 }
 
 function hbomax(){
-    window.open('https://www.hbomax.com/');
+    window.open('https://www.hbomax.com/', '_blank');
 }
 
 function ifixit(){
-    window.open('https://www.ifixit.com/');
+    window.open('https://www.ifixit.com/', '_blank');
 }
 
 function intuit(){
-    window.open('https://myturbotax.intuit.com/');
+    window.open('https://myturbotax.intuit.com/', '_blank');
 }
 
 function ksl(){
-    window.open('https://www.ksl.com/');
+    window.open('https://www.ksl.com/', '_blank');
 }
 
 function linkedin(){
-    window.open('https://www.linkedin.com/');
+    window.open('https://www.linkedin.com/', '_blank');
 }
 
 function mountainamerica(){
-    window.open('https://www.macu.com/');
+    window.open('https://www.macu.com/', '_blank');
 }
 
 function mereo(){
-    window.open('https://mereonetworks.zendesk.com/hc/en-us');
+    window.open('https://mereonetworks.zendesk.com/hc/en-us', '_blank');
 }
 
 function synchrony(){
-    window.open('https://www.mysynchrony.com/');
+    window.open('https://www.mysynchrony.com/', '_blank');
 }
 
 function nebula(){
-    window.open('https://nebula.tv/');
+    window.open('https://nebula.tv/', '_blank');
 }
 
 function nfl(){
-    window.open('https://www.nfl.com/');
+    window.open('https://www.nfl.com/', '_blank');
 }
 
 function raiders(){
-    window.open('https://www.raiders.com/');
+    window.open('https://www.raiders.com/', '_blank');
 }
 
 function nike(){
-    window.open('https://www.nike.com/');
+    window.open('https://www.nike.com/', '_blank');
 }
 
 function pluralsight(){
-    window.open('https://www.pluralsight.com/');
+    window.open('https://www.pluralsight.com/', '_blank');
 }
 
 function principal(){
-    window.open('https://www.principal.com/');
+    window.open('https://www.principal.com/', '_blank');
 }
 
 function questar(){
-    window.open('https://www.dominionenergy.com/');
+    window.open('https://www.dominionenergy.com/', '_blank');
 }
 
 function cedar(){
-    window.open('https://cedarbreaksapts.residentportal.com/auth');
+    window.open('https://cedarbreaksapts.residentportal.com/auth', '_blank');
 }
 
 function rockymountain(){
-    window.open('https://www.rockymountainpower.net/');
+    window.open('https://www.rockymountainpower.net/', '_blank');
 }
 
 function roku(){
-    window.open('https://www.roku.com/');
+    window.open('https://www.roku.com/', '_blank');
 }
 
 function robinhood(){
-    window.open('https://robinhood.com/us/en/');
+    window.open('https://robinhood.com/us/en/', '_blank');
 }
 
 function snapchat(){
-    window.open('https://web.snapchat.com/');
+    window.open('https://web.snapchat.com/', '_blank');
 }
 
 function steam(){
-    window.open('https://store.steampowered.com/');
+    window.open('https://store.steampowered.com/', '_blank');
 }
 
 function ticket(){
-    window.open('https://www.ticketmaster.com/');
+    window.open('https://www.ticketmaster.com/', '_blank');
 }
 
 function upgrade(){
-    window.open('https://www.upgrade.com/');
+    window.open('https://www.upgrade.com/', '_blank');
 }
 
 function w3schools(){
-    window.open('https://www.w3schools.com/');
+    window.open('https://www.w3schools.com/', '_blank');
 }
 
 function xfinity(){
-    window.open('https://www.xfinity.com/overview');
+    window.open('https://www.xfinity.com/overview', '_blank');
 }
 
 function hrblock(){
-    window.open('https://account.hrblock.com/#/dashboard');
+    window.open('https://account.hrblock.com/#/dashboard', '_blank');
 }
 
 function replit(){
-    window.open('https://replit.com/~');
+    window.open('https://replit.com/~', '_blank');
+}
+
+function accuweather(){
+    window.open('https://www.accuweather.com/', '_blank');
 }
