@@ -333,3 +333,7 @@ function replit(){
 function accuweather(){
     window.open('https://www.accuweather.com/', '_blank');
 }
+
+function habitica(){
+    window.open('https://habitica.com/', '_blank');
+}
