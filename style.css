@@ -100,9 +100,8 @@ a{
     background-image: url("assets/microsoft.png");
 }
 
-.mural{
-    background-image: url("assets/mural.png");
-    background-color: orange;
+.enscape{
+    background-image: url("assets/enscape.png");
 }
 
 .sketchup{
@@ -399,4 +398,8 @@ a{
 
 .habitica{
     background-image: url('assets/habitica.png');
+}
+
+.revolution{
+    background-image: url('assets/revolution.png');
 }
