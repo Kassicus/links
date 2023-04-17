@@ -341,3 +341,7 @@ function habitica(){
 function revolution(){
     window.open('https://revolutiondesign.biz/apps/portal/users', '_blank');
 }
+
+function tailscale(){
+    window.open('https://login.tailscale.com/admin/machines', '_blank');
+}
