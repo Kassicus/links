@@ -50,6 +50,10 @@ function vmware(){
     window.open('https://vcenter.archnexus.com/ui/', '_blank');
 }
 
+function esxi(){
+    window.open('https://10.3.1.91/ui/#/login', '_blank');
+}
+
 function duo(){
     window.open('https://admin-81fe44ab.duosecurity.com/', '_blank');
 }
