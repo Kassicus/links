@@ -210,8 +210,8 @@ function delta(){
     window.open('https://www.delta.com/', '_blank');
 }
 
-function facebook(){
-    window.open('https://www.facebook.com/', '_blank');
+function copperwood(){
+    window.open('https://copperwoodut.activebuilding.com/portal/resident-dashboard', '_blank');
 }
 
 function figma(){
