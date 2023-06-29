@@ -59,6 +59,15 @@ a{
     background-color: rgb(68, 74, 99)
 }
 
+.block{
+    width: 15%;
+    height: 150px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
 .label{
     color: white;
     background-color: rgba(25, 25, 25, .4);
@@ -410,4 +419,12 @@ a{
 
 .tailscale{
     background-image: url('assets/tailscale.png');
+}
+
+.verio{
+    background-image: url('assets/verio.png');
+}
+
+.mediatemple{
+    background-image: url('assets/mediatemple.png');
 }

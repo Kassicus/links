@@ -349,3 +349,11 @@ function revolution(){
 function tailscale(){
     window.open('https://login.tailscale.com/admin/machines', '_blank');
 }
+
+function verio(){
+    window.open('https://www.verio.com/controlpanel', '_blank');
+}
+
+function mediatemple(){
+    window.open('https://70.32.91.83:8443/admin/server/tools?context=tools', '_blank')
+}
