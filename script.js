@@ -357,3 +357,7 @@ function verio(){
 function mediatemple(){
     window.open('https://70.32.91.83:8443/admin/server/tools?context=tools', '_blank')
 }
+
+function pps(){
+    window.open('https://pps.archnexus.com/admin', '_blank');
+}
