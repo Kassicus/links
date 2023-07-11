@@ -258,7 +258,7 @@ a{
 }
 
 .budget{
-    background-image: url('assets/google.png');
+    background-image: url('assets/numbers.png');
 }
 
 .amazon{
@@ -431,4 +431,8 @@ a{
 
 .pps{
     background-image: url('assets/pps.png');
+}
+
+.icloud{
+    background-image: url('assets/icloud.png');
 }
