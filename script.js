@@ -365,3 +365,7 @@ function pps(){
 function icloud(){
     window.open('https://www.icloud.com/', '_blank');
 }
+
+function dynasend(){
+    window.open('https://dynasend.com/admin/#login', '_blank');
+}
