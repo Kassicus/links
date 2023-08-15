@@ -143,7 +143,7 @@ function hydrawise(){
 }
 
 function buildingevent(){
-    window.open('https://docs.google.com/spreadsheets/d/1Mjfd522fVkulitWGC86crsnhWLwoWRvYrsukB7Ks0YI/edit#gid=0', '_blank');
+    window.open('https://docs.google.com/spreadsheets/d/1ONYxIzA6Ox_52Pgwb_vxgkPHiujje-V7amGYTWjIU1E/edit#gid=1027351816', '_blank');
 }
 
 function inhabit(){
