@@ -81,12 +81,16 @@ a{
 }
 
 .old{
-    filter: blur(1px) grayscale(.8);
+    filter: blur(2px) grayscale(.8);
 }
 
 .broken{
     background-color: darkred;
-    filter: blur(5px);
+    filter: blur(2px) grayscale(.8);
+}
+
+.broken:hover{
+    background-color: red;
 }
 
 .connectwise{
