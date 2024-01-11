@@ -369,3 +369,7 @@ function icloud(){
 function dynasend(){
     window.open('https://dynasend.com/admin/#login', '_blank');
 }
+
+function scribehow(){
+    window.open('https://scribehow.com/workspace#dashboard', '_blank');
+}
