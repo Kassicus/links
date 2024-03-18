@@ -373,3 +373,7 @@ function dynasend(){
 function scribehow(){
     window.open('https://scribehow.com/workspace#dashboard', '_blank');
 }
+
+function password(){
+    window.open('https://1password.com/', '_blank');
+}
